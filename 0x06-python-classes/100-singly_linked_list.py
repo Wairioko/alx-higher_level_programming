@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-"""This module creates a class named Square"""
+"""This module creates a class named Node"""
+"""This module creates a class named SinglyLinkedList"""
 class Node:
     def __init__(self, data, next_node=None):
         self.data = data

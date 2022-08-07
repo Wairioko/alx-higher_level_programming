@@ -1,5 +1,8 @@
 #!/usr/bin/python3
-""" Module that contains a function that reads n lines of a text file
+"""
+
+Module that contains a function that reads n lines of a text file
+
 """
 
 
